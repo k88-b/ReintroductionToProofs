@@ -58,7 +58,7 @@ This was created using the GameSkeleton Github Repo from the Lean Games Server h
 "
 
 /-! Information to be displayed on the servers landing page. -/
-Languages "en"   -- List of ISO 2-letter abbreviations
+Languages "en" "ru"   -- List of ISO 2-letter abbreviations
 /-! `CaptionShort` is the subtitle displayed above the image -/
 CaptionShort "An introduction to proofs in dependent type theory."
 /-! `CaptionLong` is the description of the game displayed below the image -/

@@ -7453,8 +7453,8 @@ msgid ""
 "Type §0 to tell Lean to use the assumption that §1 is true to conclude that "
 "§2 is true."
 msgstr ""
-"Введите §0, чтобы указать Lean использовать предположение об истинности §1 "
-"для вывода об истинности §2."
+"Введите §0, чтобы использовать тактику Lean: применить предположение "
+"об истинности §1 для вывода об истинности §2."
 
 #. §0: `P`
 #. §1: `R → S ∧ T`
@@ -12926,8 +12926,8 @@ msgid ""
 "Type §0 to tell Lean to use the assumed element of §1 to define an element "
 "of §2."
 msgstr ""
-"Введите §0, чтобы указать Lean использовать заданный по предположению "
-"элемент типа §1 для определения элемента типа §2."
+"Введите §0, чтобы использовать тактику Lean: применить предположение — "
+"— элемент типа §1 — для определения элемента типа §2."
 
 #. §0: `exact fun f ↦ ⟨f ∘ Sum.inl, f ∘ Sum.inr⟩`
 #: Game.Levels.CoproductWorld.L03_ComponentFunctions
